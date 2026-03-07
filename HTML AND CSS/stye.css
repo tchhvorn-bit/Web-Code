@@ -1,0 +1,40 @@
+h1{
+    color: rgb(56, 24, 201);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ol{
+    color: blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    color: rgb(212, 58, 58);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+form{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: rgb(208, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    color: rgb(255, 145, 0);
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.nameble{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.nameble td, th{
+    border: 2px solid blueviolet;
+    padding: 5px;
+    
+}
+.nameble th{
+    font-style: italic;
+}
